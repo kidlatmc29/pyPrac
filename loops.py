@@ -3,7 +3,7 @@
 print()
 print("Printing out Fall Schedule:")
 
-schedule = ["data structures, linear algebra, philosophy"]
+schedule = ["data structures", "linear algebra", "philosophy"]
 
 for subject in schedule: # Used "class" as the var name, but it's a keyword- 
     print(subject)
